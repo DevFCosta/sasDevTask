@@ -4,8 +4,12 @@ SearchAndStay Task to Flutter developer job opportunity.
 
 ## Usage
 
+```bash
 email required to use the app: searchandstay.
+```
+```bash
 Password required to use the app : SearchAndStay.
+```
 
 ### Author
 
