@@ -1,0 +1,4 @@
+#Fri Apr 28 20:26:31 BRT 2023
+base.0=/Users/filipecosta/Freelas/dev_test/house_rules/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
