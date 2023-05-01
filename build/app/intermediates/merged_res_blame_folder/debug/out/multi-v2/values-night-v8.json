@@ -4,7 +4,7 @@
             "outputFile": "com.example.house_rules.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/filipecosta/Freelas/sas_task/house_rules/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/filipecosta/Freelas/dev_test/house_rules/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

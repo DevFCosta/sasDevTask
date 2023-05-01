@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/filipecosta/Freelas/sas_task/house_rules/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/filipecosta/Freelas/dev_test/house_rules/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
